@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shreeshlovespeace@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
 
 <!---
 theshreesh02/theshreesh02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
